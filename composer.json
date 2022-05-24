@@ -1,0 +1,18 @@
+{
+    "name": "cw-nakata/dompdf",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "CwNakata\\Dompdf\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Keisuke Nakata",
+            "email": "tensler906@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^1.2"
+    }
+}
